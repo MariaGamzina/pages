@@ -7,6 +7,7 @@ _Меня зовут Мария._
 2. хочу освоить новую профессию
 3. смотрю с перспективой в будущее
 
-![](https://drive.google.com/file/d/1_2xYx-CISy1R-JG1Glj-Pw14XciflcEW/view?usp=sharing)
+
+<img src="file:///C:/Users/gamzi/Downloads/Обои С Цветочным Принтом.jpeg" />
 
 ![Подписывайся!](https://github.com/MariaGamzina)
